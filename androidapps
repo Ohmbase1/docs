@@ -1,47 +1,53 @@
 account : ohmbase1@gmail.com
 password: ask jeff
 
-9 palemoon
+#############################
 
-7 twitter
+very important:
+on device -> display settings -> NEVER TIME OUT 
+android will get stuck in sleep mode on our computers if you do not set this.
+(there is an open bug report for this)
 
-6 google maps
-6 f-droid
-6 Youtube
+##################################
 
-4 google+
-4 File Manager (cyanogenmod)
+Apps(in order of importance)
 
-3 Play Music
-3 Play Store
-3 Messaging
-3 Gallery
-3 Mycelium
-3 MaximaOnAndroid
-3 apv pdf viewer
+palemoon
 
-2 SuperUser
-2 khan academy
-2 samsung mobile print
-2 chordbot lite
-2 caustic
-2 terminal emulator
-2 USB Device Info
-2 gmail
-2 Loops!
-2 aicia
-2 chrome
-2 Sharp
-2 Browser
-2 Dev Tools
+Youtube
 
-123D Catch
-Car Bus Interface
+twitter
+
+google maps
+ 
+f-droid
+Play Music
+Messaging
+File Manager (cyanogenmod)
+
+Gallery
+Play Store
+
+google+ 
+
+Mycelium
+MaximaOnAndroid
+apv pdf viewer
 Angry Birds
-Dropbox
-Instagram
-GalaxyZoo
-ep mobile
-android obd-ii reader
-python3 for android
-HP Myroom
+gmail
+SuperUser
+terminal emulator
+
+Blynk
+khan academy
+samsung mobile print
+chordbot lite
+caustic
+USB Device Info
+Loops!
+aicia
+chrome
+Sharp
+Browser
+Dev Tools
+
