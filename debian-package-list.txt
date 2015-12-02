@@ -1,4 +1,3 @@
-
 a2jmidid
 abgate
 abiword
@@ -402,7 +401,6 @@ eog
 eog						
 eq10q
 equivs						
-Err?=(none)/Reinst-required
 esound-common
 espeak
 espeak-data:amd64
